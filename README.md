@@ -50,7 +50,7 @@ The project builds on the **interactive HR dashboard** developed in Task 3. The 
 
 ### Dashboard Preview
 
-*Add a screenshot of the completed Excel HR dashboard here.*
+![Interactive HR Dashboard](./HR-Dashboard.png.png)
 
 ## 💡 Key Business Insights
 
