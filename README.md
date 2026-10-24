@@ -55,6 +55,12 @@ The project builds on the **interactive HR dashboard** developed in Task 3. The 
 ## 💡 Key Business Insights
 
 The analysis examines **workforce composition, employment categories, salary patterns, regional distribution, and employee skills**. These findings can help highlight workforce patterns and areas relevant to **HR planning**.
+- **Workforce Size:** The dataset contains 100 employees.
+- **Employment Status:** 41 Full-Time, 31 Contract, and 28 Part-Time employees.
+- **Gender Distribution:** 51% Male and 49% Female employees.
+- **Work Location:** 38% Remote, 32% Branch Office, and 30% Head Office.
+- **Average Performance Rating:** 2.9.
+- **Total Salaries:** ₹63,34,341, as displayed on the dashboard.
 
 Specific insights and recommendations will be documented using the **actual results from the dataset and dashboard**.
 
