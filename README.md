@@ -27,10 +27,15 @@ The project uses an **HR employee dataset** containing fields such as:
 - **Salary and Skills**, where available
 
 ## 🧹 Data Cleaning & Preparation
+The following steps were done in **Excel** before analysis:
 
-Data preparation involves reviewing data quality and checking relevant fields for **missing values, duplicate records, inconsistent formats, and appropriate data types**. The dataset is prepared for analysis using **Excel formulas, PivotTables, and charts**.
+- Checked for **blank cells** and fixed or removed them
+- Removed **duplicate** employee records
+- Made **date formats** consistent (Date of Hire)
+- Set the correct **data types** (numbers, dates, text)
+- Fixed **spelling and spacing** in text columns
+- Created an **Age Range** column
 
-The final documentation will reflect the **cleaning steps actually performed**.
 
 ## 📈 Data Analysis
 
@@ -55,6 +60,7 @@ The project builds on the **interactive HR dashboard** developed in Task 3. The 
 ## 💡 Key Business Insights
 
 The analysis examines **workforce composition, employment categories, salary patterns, regional distribution, and employee skills**. These findings can help highlight workforce patterns and areas relevant to **HR planning**.
+
 - **Workforce Size:** The dataset contains 100 employees.
 - **Employment Status:** 41 Full-Time, 31 Contract, and 28 Part-Time employees.
 - **Gender Distribution:** 51% Male and 49% Female employees.
@@ -62,7 +68,12 @@ The analysis examines **workforce composition, employment categories, salary pat
 - **Average Performance Rating:** 2.9.
 - **Total Salaries:** ₹63,34,341, as displayed on the dashboard.
 
-Specific insights and recommendations will be documented using the **actual results from the dataset and dashboard**.
+### 💡 What This Means (Recommendations)
+
+- **Remote work (38%):** A large part of the team works remotely, so the company should have clear remote-work rules and good communication tools.
+- **Performance (2.9 average):** The rating is average, so training or coaching could help raise it.
+- **Part-time and contract staff (59% combined):** Most employees are not full-time. Offering full-time roles to top performers could help keep them.
+- **Balanced team:** Gender is almost equal (51% / 49%), which is a healthy sign.
 
 ## 🛠️ Tools & Technologies
 
